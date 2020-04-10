@@ -11,6 +11,7 @@ Mesmo há pouco tempo direcionada para essa carreira, minhas credenciais incluem
 
 ** Links **
 
+
 *[Linkedin] (https://www.linkedin.com/in/ana-paula-gondim/)
 * [Médio] (https://medium.com)
 
