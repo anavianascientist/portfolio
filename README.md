@@ -7,7 +7,7 @@ Como cientista de dados, combino habilidades analíticas, capacidade de trabalha
 
 Mesmo há pouco tempo direcionada para essa carreira, minhas credenciais incluem Graduação em curso na área,  estudo em uma Escola de Data Science que trabalha a prática e aperfeiçoamento das ténicas, assim como cursos  extra em instituições conceituadas como Udemy e Data Science Academy, sendo que todo aprendizado é aplicado em projetos próprio
 
-** Experiências**: Python, Machine Learning.
+** Experiências em: ** Python, Machine Learning.
 
 ** Links **
 
