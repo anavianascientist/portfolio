@@ -15,6 +15,8 @@ Mesmo há pouco tempo direcionada para essa carreira, minhas credenciais incluem
 
 ** Projetos **
 
+** Detecção Fraude de Cartão de Crédito:** ('Data_Science_na_Análise_e_Detecção_de_Fraude_em_Cartões_de_Crédito.ipynb')
+
 
 
 
