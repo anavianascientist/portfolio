@@ -1,15 +1,15 @@
 
  #  Ana Paula Viana  
-O que os outros estão dizendo
-Como cientista de dados, combino habilidades analíticas, capacidade de trabalhar em ambientes de equipe e atenção aos detalhes.  Depois de passar os últimos meses aplicando machine learning  a problemas reais  do cotidiano empresarial, desenvolvi um pensamento crítico e capacidade para resolver problemas.
 
-Mesmo há pouco tempo direcionada para essa carreira, minhas credenciais incluem Graduação em curso na área,  estudo em uma Escola de Data Science que trabalha a prática e aperfeiçoamento das ténicas, assim como cursos  extra em instituições conceituadas como Udemy e Data Science Academy onde o conhecimento é aplicado em projetos próprios.
+Nos últimos meses tenho trabalhado em aplicações de machine learning  a problemas reais  do cotidiano empresarial, desenvolvi um pensamento crítico e capacidade para resolver problemas.
 
-Experiências em :  "Python, Machine Learning e Java".
+Atualmente faço Graduação em Ciência de Dados, sou integrannte da Escola de Data Science - SIGMOIDAL (que agrupa conceitos, prática e o aperfeiçoamento das ténicas) em projetos reais,  assim como especialização no curso Formação Cientista de Dados (que agrupo estatística, Python, R, e aplicação em projetos reais). Assim como também tenho desenvolvido projetos próprios. 
+
+Constante Desenvolvido de habilidades em :  "Python, R, Estatística e Análise de Negócios".
 
 Links
 https://www.linkedin.com/in/ana-paula-gondim/
-https://medium.com
+
 
 Projetos 
 
