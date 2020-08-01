@@ -1,13 +1,25 @@
 
  #  Ana Paula Viana  
 
-Nos últimos meses tenho trabalhado em aplicações de machine learning  a problemas reais  do cotidiano empresarial, desenvolvi um pensamento crítico e capacidade para resolver problemas.
+Enquanto houver desenvolvimento intelectual sempre teremos mais a aprender.
+Profissional dedicada ao aprendizado contínuo de Deep Learning.
 
-Atualmente faço Graduação em Ciência de Dados, sou integrannte da Escola de Data Science - SIGMOIDAL (que agrupa conceitos, prática e o aperfeiçoamento das ténicas) em projetos reais,  assim como especialização no curso Formação Cientista de Dados (que agrupo estatística, Python, R, e aplicação em projetos reais). Assim como também tenho desenvolvido projetos próprios. 
+Formação:
 
-Constante Desenvolvido de habilidades em :  "Python, R, Estatística e Análise de Negócios".
+ * Graduanda em Ciência de Dados;
+ * Aluna da Escola de Data Science - SIGMOIDAL;
+ * Especialização na Formação em Ciência de Dados - Prof. Fernando Amaral
+ * Graduada em Ciências Contábeis.
+ 
+Constante Desenvolvido de habilidades em :
 
-Links
+* Python;
+* Matemática - Algebra Linear e Cálulo;
+* Estatística; 
+* Análise de Negócios.
+
+Perfil Profissional:
+
 https://www.linkedin.com/in/ana-paula-gondim/
 
 
