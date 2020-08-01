@@ -16,7 +16,11 @@ Projetos:
 Detecção Fraude de Cartão de Crédito: https://bit.ly/3b4GCes
 
 
-Práticas e Desenvolvimentos:
+Práticas e Desenvolvimentos em Python:
+
+>> - Códigos Básicos: https://bit.ly/3k3ff9N
+>> - Tratamento de Dados: https://bit.ly/33t9fkT
+>> - Visualização de Dados|Gráficos e Dasboards: https://bit.ly/3k4fv8a
 
 
 
