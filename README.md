@@ -14,6 +14,9 @@ Formação:
 Constante Desenvolvido de habilidades em :
 
 * Python;
+* Redes Neurais Recorrentes;
+* Redes Neurais Convolucionais;
+* Visão Computacional;
 * Matemática - Algebra Linear e Cálulo;
 * Estatística; 
 * Análise de Negócios.
