@@ -13,7 +13,7 @@ https://www.linkedin.com/in/ana-paula-gondim/
 
 Projetos: 
 
-Detecção Fraude de Cartão de Crédito: https://bit.ly/3b4GCes
+>> - Detecção Fraude de Cartão de Crédito: https://bit.ly/3b4GCes
 
 
 Práticas e Desenvolvimentos em Python:
