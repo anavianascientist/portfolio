@@ -36,6 +36,8 @@ Práticas e Desenvolvimentos em Python:
 >> - Códigos Básicos: https://bit.ly/3k3ff9N
 >> - Tratamento de Dados: https://bit.ly/33t9fkT
 >> - Visualização de Dados|Gráficos e Dasboards: https://bit.ly/3k4fv8a
+>> - Estatística com Pyhton : https://bit.ly/3gy7XbI
+>> - Machine Learning com Python: https://bit.ly/3ifVnyt
 
 
 
