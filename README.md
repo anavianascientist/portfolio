@@ -38,7 +38,7 @@ Práticas e Desenvolvimentos em Python:
 >> - Visualização de Dados|Gráficos e Dasboards: https://bit.ly/3k4fv8a
 >> - Estatística com Pyhton : https://bit.ly/3gy7XbI
 >> - Machine Learning com Python: https://bit.ly/3ifVnyt
-
+>> - Deep Learning com Python : https://bit.ly/2DTZLUP
 
 
 
